@@ -1,4 +1,5 @@
 This project is a frontend assignment built using ReactJS, Vite, and CSS. It demonstrates my ability to create responsive and clean UI components while following modern frontend development practices.
+Live link - https://zi-cloud-assignment.vercel.app/
 
 🚀 Tech Stack
 
@@ -31,9 +32,6 @@ Preview production build:
 
 npm run preview
 
-📸 Screenshots
-
-(Add screenshots here if required, for better presentation)
 
 ✨ Features
 
