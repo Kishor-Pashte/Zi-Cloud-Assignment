@@ -324,3 +324,39 @@ select {
 .mt {
   margin-top: 14px;
 }
+
+/* responsiveness */
+@media (max-width: 1000px) {
+  .chat-panel {
+    flex-basis: 60%;
+    min-width: 300px;
+  }
+  .form-panel {
+    flex-basis: 40%;
+    min-width: 260px;
+  }
+}
+
+@media (max-width: 720px) {
+  .app {
+    flex-direction: column;
+  }
+  .sidebar {
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    padding: 8px 12px;
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .content {
+    flex-direction: column;
+  }
+  .chat-panel,
+  .form-panel {
+    flex-basis: auto;
+    min-width: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+  }
+}
