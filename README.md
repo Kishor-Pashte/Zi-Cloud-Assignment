@@ -1,12 +1,50 @@
-# React + Vite
+This project is a frontend assignment built using ReactJS, Vite, and CSS. It demonstrates my ability to create responsive and clean UI components while following modern frontend development practices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tech Stack
 
-Currently, two official plugins are available:
+ReactJS – For building UI components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vite – For fast development and build tool
 
-## Expanding the ESLint configuration
+CSS – For styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📂 Project Setup
+
+Clone the repository and install dependencies:
+
+git clone <your-repo-link>
+cd <project-folder>
+npm install
+
+
+Run the development server:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
+
+
+Preview production build:
+
+npm run preview
+
+📸 Screenshots
+
+(Add screenshots here if required, for better presentation)
+
+✨ Features
+
+Responsive design
+
+Clean and structured code
+
+Built with React functional components
+
+Styled using plain CSS
+
+📌 Notes
+
+This project was created as part of a frontend internship assignment.
